@@ -1,0 +1,9 @@
+# Capturas de WhatsApp contêm credenciais — não versionar
+WhatsApp Image*
+
+# Next.js / Node
+node_modules/
+.next/
+out/
+.env*
+!.env.example
