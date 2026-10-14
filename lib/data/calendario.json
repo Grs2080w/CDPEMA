@@ -1,0 +1,375 @@
+[
+  {
+    "month": "Janeiro",
+    "days": [
+      {
+        "day": "01",
+        "label": "Dia Mundial da Paz/Confraternização Universal"
+      },
+      {
+        "day": "09",
+        "label": "Dia do Astronauta"
+      },
+      {
+        "day": "11",
+        "label": "Dia do Controle da Poluição por Agrotóxicos"
+      }
+    ]
+  },
+  {
+    "month": "Fevereiro",
+    "days": [
+      {
+        "day": "02",
+        "label": "Dia Mundial das Zonas Úmidas"
+      },
+      {
+        "day": "06",
+        "label": "Dia do Agente de Defesa Ambiental"
+      },
+      {
+        "day": "22",
+        "label": "Dia da Criação do IBAMA"
+      }
+    ]
+  },
+  {
+    "month": "Março",
+    "days": [
+      {
+        "day": "01",
+        "label": "Dia do Turismo Ecológico"
+      },
+      {
+        "day": "14",
+        "label": "Dia Mundial de Luta dos Atingidos por Barragens"
+      },
+      {
+        "day": "21",
+        "label": "Início do Outono"
+      },
+      {
+        "day": "21",
+        "label": "Dia Florestal Mundial"
+      },
+      {
+        "day": "22",
+        "label": "Dia Mundial da Água"
+      },
+      {
+        "day": "23",
+        "label": "Dia do Meteorologista"
+      }
+    ]
+  },
+  {
+    "month": "Abril",
+    "days": [
+      {
+        "day": "07",
+        "label": "Dia Mundial da Saúde"
+      },
+      {
+        "day": "15",
+        "label": "Dia Nacional da Conservação do Solo"
+      },
+      {
+        "day": "19",
+        "label": "Dia do Índio"
+      },
+      {
+        "day": "22",
+        "label": "Dia da Terra"
+      },
+      {
+        "day": "28",
+        "label": "Dia da Caatinga"
+      }
+    ]
+  },
+  {
+    "month": "Maio",
+    "days": [
+      {
+        "day": "03",
+        "label": "Dia do Solo"
+      },
+      {
+        "day": "05",
+        "label": "Dia Mundial do Campo"
+      },
+      {
+        "day": "08",
+        "label": "Dia Mundial das Aves Migratórias"
+      },
+      {
+        "day": "13",
+        "label": "Dia do Zootecnista"
+      },
+      {
+        "day": "16",
+        "label": "Dia do Gari"
+      },
+      {
+        "day": "18",
+        "label": "Dia das Raças Indígenas da América"
+      },
+      {
+        "day": "22",
+        "label": "Dia do Apicultor"
+      },
+      {
+        "day": "25",
+        "label": "Dia do Trabalhador Rural"
+      },
+      {
+        "day": "27",
+        "label": "Dia Nacional da Floresta Atlântica"
+      },
+      {
+        "day": "29",
+        "label": "Dia do Geógrafo"
+      },
+      {
+        "day": "30",
+        "label": "Dia do Geólogo"
+      }
+    ]
+  },
+  {
+    "month": "Junho",
+    "days": [
+      {
+        "day": "05",
+        "label": "Dia Mundial do Meio Ambiente"
+      },
+      {
+        "day": "05",
+        "label": "Dia da Ecologia"
+      },
+      {
+        "day": "08",
+        "label": "Dia do Citricultor"
+      },
+      {
+        "day": "17",
+        "label": "Dia Mundial de Combate à Desertificação e à Seca"
+      },
+      {
+        "day": "21",
+        "label": "Início do Inverno"
+      },
+      {
+        "day": "23",
+        "label": "Dia do Lavrador"
+      }
+    ]
+  },
+  {
+    "month": "Julho",
+    "days": [
+      {
+        "day": "02",
+        "label": "Dia Nacional do Bombeiro"
+      },
+      {
+        "day": "08",
+        "label": "Dia Nacional da Ciência"
+      },
+      {
+        "day": "12",
+        "label": "Dia do Engenheiro Florestal"
+      },
+      {
+        "day": "13",
+        "label": "Dia do Engenheiro Sanitarista"
+      },
+      {
+        "day": "17",
+        "label": "Dia de Proteção às Florestas"
+      },
+      {
+        "day": "25",
+        "label": "Dia do Colono"
+      },
+      {
+        "day": "28",
+        "label": "Dia do Agricultor"
+      }
+    ]
+  },
+  {
+    "month": "Agosto",
+    "days": [
+      {
+        "day": "05",
+        "label": "Dia Nacional da Saúde"
+      },
+      {
+        "day": "06",
+        "label": "Dia de Hiroshima"
+      },
+      {
+        "day": "09",
+        "label": "Dia Internacional dos Povos Indígenas"
+      },
+      {
+        "day": "09",
+        "label": "Dia Interamericano de Qualidade do Ar"
+      },
+      {
+        "day": "11",
+        "label": "Dia do Estudante"
+      },
+      {
+        "day": "14",
+        "label": "Dia do Combate à Poluição"
+      }
+    ]
+  },
+  {
+    "month": "Setembro",
+    "days": [
+      {
+        "day": "03",
+        "label": "Dia do Biólogo"
+      },
+      {
+        "day": "05",
+        "label": "Dia da Amazônia"
+      },
+      {
+        "day": "09",
+        "label": "Dia do Veterinário"
+      },
+      {
+        "day": "11",
+        "label": "Dia do Cerrado"
+      },
+      {
+        "day": "16",
+        "label": "Dia Internacional de Proteção da Camada de Ozônio"
+      },
+      {
+        "day": "16",
+        "label": "Dia Internacional para a Prevenção de Desastres Naturais"
+      },
+      {
+        "day": "18",
+        "label": "Dia Mundial de Limpeza do Litoral"
+      },
+      {
+        "day": "21",
+        "label": "Dia da Árvore"
+      },
+      {
+        "day": "21",
+        "to": "26",
+        "label": "Semana da Árvore no Sul do Brasil"
+      },
+      {
+        "day": "22",
+        "label": "Dia da Defesa da Fauna"
+      },
+      {
+        "day": "22",
+        "label": "Dia da Jornada “Na Cidade Sem Meu Carro”"
+      },
+      {
+        "day": "23",
+        "label": "Início da Primavera"
+      }
+    ]
+  },
+  {
+    "month": "Outubro",
+    "days": [
+      {
+        "day": "04",
+        "label": "Dia Mundial dos Animais"
+      },
+      {
+        "day": "04",
+        "label": "Dia da Natureza"
+      },
+      {
+        "day": "04",
+        "label": "Dia do Cão"
+      },
+      {
+        "day": "05",
+        "label": "Dia Mundial do Habitat"
+      },
+      {
+        "day": "05",
+        "label": "Dia da Ave"
+      },
+      {
+        "day": "12",
+        "label": "Dia do Mar"
+      },
+      {
+        "day": "12",
+        "label": "Dia do Agrônomo"
+      },
+      {
+        "day": "15",
+        "label": "Dia do Professor"
+      },
+      {
+        "day": "15",
+        "label": "Dia do Educador Ambiental"
+      },
+      {
+        "day": "27",
+        "label": "Dia do Engenheiro Agrícola"
+      }
+    ]
+  },
+  {
+    "month": "Novembro",
+    "days": [
+      {
+        "day": "01",
+        "label": "Dia Nacional da Espeleologia"
+      },
+      {
+        "day": "05",
+        "label": "Dia da Cultura e da Ciência"
+      },
+      {
+        "day": "24",
+        "label": "Dia do Rio"
+      }
+    ]
+  },
+  {
+    "month": "Dezembro",
+    "days": [
+      {
+        "day": "07",
+        "label": "Dia do Pau-Brasil"
+      },
+      {
+        "day": "14",
+        "label": "Dia do Engenheiro de Pesca"
+      },
+      {
+        "day": "15",
+        "label": "Dia do Jardineiro"
+      },
+      {
+        "day": "21",
+        "label": "Início do Verão"
+      },
+      {
+        "day": "29",
+        "label": "Dia Internacional da Biodiversidade"
+      },
+      {
+        "day": "31",
+        "label": "Dia da Esperança"
+      }
+    ]
+  }
+]
