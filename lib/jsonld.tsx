@@ -21,7 +21,7 @@ export const organizationLd = {
   legalName: SITE.fullName,
   alternateName: SITE.fullName,
   url: SITE.url,
-  logo: `${SITE.url}/site/wp-content/uploads/2020/09/cropped-cdpema-logo-sem-texto.png`,
+  logo: `${SITE.url}/brand/cdpema-marca-512.png`,
   foundingDate: "1977-09-07",
   taxID: SITE.cnpj,
   email: SITE.email,
