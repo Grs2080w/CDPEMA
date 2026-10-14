@@ -28,7 +28,7 @@ export function SiteFooter() {
           <div className="site-footer__brand">
             <Link href="/" className="brand brand--light">
               <Image
-                src="/site/wp-content/uploads/2020/09/cropped-cdpema-logo-sem-texto.png"
+                src="/brand/cdpema-icone.svg"
                 alt=""
                 width={52}
                 height={52}

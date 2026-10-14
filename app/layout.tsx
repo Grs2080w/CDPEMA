@@ -40,7 +40,6 @@ export const metadata: Metadata = {
   },
   twitter: { card: "summary_large_image" },
   robots: { index: true, follow: true },
-  icons: { icon: "/site/wp-content/uploads/2020/09/cropped-favicon-32x32.png" },
 };
 
 export const viewport: Viewport = { themeColor: "#0d2418" };

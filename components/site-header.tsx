@@ -35,7 +35,7 @@ export function SiteHeader() {
       <div className="site-header__bar">
         <Link href="/" className="brand" aria-label="CDPEMA — página inicial">
           <Image
-            src="/site/wp-content/uploads/2020/09/cropped-cdpema-logo-sem-texto.png"
+            src="/brand/cdpema-marca.svg"
             alt=""
             width={44}
             height={44}
