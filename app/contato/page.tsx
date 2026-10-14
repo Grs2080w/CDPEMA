@@ -3,13 +3,14 @@ import { ContactForm } from "@/components/contact-form";
 import { Mail, MapPin, Phone } from "@/components/icons";
 import { PageHero } from "@/components/page-hero";
 import { OFFICES, SITE } from "@/lib/config";
+import { pageOg } from "@/lib/seo";
 
 export const metadata: Metadata = {
   title: "Contato",
   description:
     "Fale com a CDPEMA por telefone, e-mail, WhatsApp ou visite nosso escritório em Presidente Prudente.",
   alternates: { canonical: "/contato" },
-  openGraph: { url: "/contato" },
+  openGraph: pageOg("/contato"),
 };
 
 export default function Contato() {

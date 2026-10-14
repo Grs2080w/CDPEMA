@@ -4,13 +4,14 @@ import Link from "next/link";
 import { ArrowRight, Check } from "@/components/icons";
 import { PageHero } from "@/components/page-hero";
 import conheca from "@/lib/data/conheca.json";
+import { pageOg } from "@/lib/seo";
 
 export const metadata: Metadata = {
   title: "Conheça a CDPEMA",
   description:
     "Histórico, finalidades, grupos de atuação, cursos, projetos e áreas de abrangência da CDPEMA.",
   alternates: { canonical: "/conheca-a-cdpema" },
-  openGraph: { url: "/conheca-a-cdpema" },
+  openGraph: pageOg("/conheca-a-cdpema"),
 };
 
 type Item = (typeof conheca)[number];

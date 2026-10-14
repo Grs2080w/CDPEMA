@@ -4,13 +4,14 @@ import Link from "next/link";
 import { ArrowRight, Calendar, Video } from "@/components/icons";
 import { PageHero } from "@/components/page-hero";
 import { SITE } from "@/lib/config";
+import { pageOg } from "@/lib/seo";
 
 export const metadata: Metadata = {
   title: "Reuniões",
   description:
     "Encontros online da CDPEMA realizados pelas plataformas Zoom e Google Meet.",
   alternates: { canonical: "/reunioes" },
-  openGraph: { url: "/reunioes" },
+  openGraph: pageOg("/reunioes"),
 };
 
 export default function Reunioes() {

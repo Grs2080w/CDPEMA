@@ -2,13 +2,14 @@ import type { Metadata } from "next";
 import { PageHero } from "@/components/page-hero";
 import { PostCard } from "@/components/post-card";
 import { allPosts } from "@/lib/posts";
+import { pageOg } from "@/lib/seo";
 
 export const metadata: Metadata = {
   title: "Publicações",
   description:
     "Artigos da CDPEMA sobre educação ambiental, Agenda 21, Agenda Ambiental e ações para preservar os recursos naturais.",
   alternates: { canonical: "/publicacoes" },
-  openGraph: { url: "/publicacoes" },
+  openGraph: pageOg("/publicacoes"),
 };
 
 export default function Publicacoes() {
