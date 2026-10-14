@@ -314,8 +314,8 @@ html.nav-hidden .site-header:not(.is-open) {
   margin-right: auto;
 }
 .brand img {
-  width: 40px;
-  height: 40px;
+  width: 46px;
+  height: 46px;
   object-fit: contain;
   transition: transform 0.6s var(--ease);
 }
@@ -1243,7 +1243,8 @@ html.nav-hidden .site-header:not(.is-open) {
   right: -40px;
   bottom: -60px;
   width: min(420px, 50vw);
-  color: rgb(200 242 122 / 0.12);
+  opacity: 0.07;
+  height: auto;
   z-index: -1;
   animation: bob 9s ease-in-out infinite alternate;
 }
@@ -1900,6 +1901,10 @@ html.nav-hidden .site-header:not(.is-open) {
 }
 .brand--light {
   color: #fff;
+}
+.brand--light img {
+  width: 56px;
+  height: 56px;
 }
 .contact-list li {
   display: flex;

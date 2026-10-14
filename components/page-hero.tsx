@@ -31,14 +31,14 @@ export function PageHero({
           sizes="100vw"
         />
       )}
-      <svg
+      <Image
         className="page-hero__leaf"
-        viewBox="0 0 24 24"
-        fill="currentColor"
+        src="/brand/cdpema-marca-branco.svg"
+        alt=""
+        width={420}
+        height={429}
         aria-hidden="true"
-      >
-        <path d="M11 20A7 7 0 0 1 4 13c0-6 6-9 16-9 0 10-3 16-9 16Z" />
-      </svg>
+      />
       <div className="container">
         <nav className="crumbs" aria-label="Você está em">
           <Link href="/">Início</Link>
