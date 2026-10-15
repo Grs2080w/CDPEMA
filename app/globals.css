@@ -611,6 +611,9 @@ html.nav-hidden .site-header:not(.is-open) {
   gap: clamp(36px, 6vh, 64px);
   color: #fff;
   background: var(--forest-950);
+  /* tons de outono, tirados do chão de folhas do vídeo */
+  --hero-amber: #e8a33a;
+  --hero-rust: #d2622a;
   overflow: hidden;
   isolation: isolate;
   padding: calc(var(--header-h) + 36px) 0 32px;
@@ -633,8 +636,8 @@ html.nav-hidden .site-header:not(.is-open) {
   inset: 0;
   z-index: -2;
   background:
-    radial-gradient(80% 60% at 20% 20%, rgb(108 191 42 / 0.28), transparent 60%),
-    radial-gradient(70% 60% at 90% 80%, rgb(31 155 209 / 0.25), transparent 60%),
+    radial-gradient(80% 60% at 20% 20%, rgb(232 163 58 / 0.28), transparent 60%),
+    radial-gradient(70% 60% at 90% 80%, rgb(210 98 42 / 0.25), transparent 60%),
     linear-gradient(
       180deg,
       rgb(6 20 13 / 0.55) 0%,
@@ -653,14 +656,14 @@ html.nav-hidden .site-header:not(.is-open) {
 .hero__blob--a {
   width: 420px;
   height: 420px;
-  background: var(--leaf-500);
+  background: var(--hero-amber);
   top: 8%;
   left: -8%;
 }
 .hero__blob--b {
   width: 380px;
   height: 380px;
-  background: var(--sky-500);
+  background: var(--hero-rust);
   bottom: 6%;
   right: -6%;
   animation-delay: -6s;
